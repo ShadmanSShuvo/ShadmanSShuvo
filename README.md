@@ -64,17 +64,17 @@ This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Enginee
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BRAINIAC2677&theme=onedark" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BRAINIAC2677&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </div>
-
+-->
 
 ## Connect with me:
 
-[<img align="left" alt="Asif Azad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Asif Azad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Asif Azad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Asif Azad | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="Shadman Shuvo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shadman Shuvo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shadman Shuvo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Shadman Shuvo | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 <br />
-
+<!-- 
 ## My Programming Performances
 
 | Competition Name|2020|2021| 2022 | 2023 |
