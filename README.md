@@ -91,6 +91,12 @@ This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Enginee
 | <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Max Rank|  1752 <br /> ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  |  -  |  -   |  -   |
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 [website]: https://github.com/ShadmanSShuvo
 [facebook]: https://www.facebook.com/ShadmanSShuvo
 [codeforces]: https://codeforces.com/profile/ShadmanSShuvo
