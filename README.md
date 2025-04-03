@@ -67,14 +67,18 @@ This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Enginee
 -->
 
 ## Connect with me:
-
+<div align="left">
+  
 [<img align="left" alt="Shadman Shuvo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shadman Shuvo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shadman Shuvo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Shadman Shuvo | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
-<br />
+ </div>
+
 <!-- 
+<br />
+
 ## My Programming Performances
 
 | Competition Name|2020|2021| 2022 | 2023 |
