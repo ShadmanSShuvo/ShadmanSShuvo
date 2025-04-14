@@ -65,22 +65,29 @@ This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Enginee
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BRAINIAC2677&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </div>
 -->
-
+## Connect with me
 <div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px;">
   <a href="https://github.com/ShadmanSShuvo" target="_blank" style="margin-right: 10px;">
-    <img alt="Shadman Shuvo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="filter: invert(100%);" />
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 16 16" fill="currentColor">
+      <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.1 0 0 .67-.21 2.2.82A7.72 7.72 0 0 1 8 4.98c.68.003 1.37.09 2.01.26 1.52-1.04 2.2-.82 2.2-.82.45 1.09.17 1.9.08 2.1.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.64 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+    </svg>
   </a>
   <a href="https://www.linkedin.com/in/sdmnsvo/" target="_blank" style="margin-right: 10px;">
-    <img alt="Shadman Shuvo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%);" />
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 16 16" fill="currentColor">
+      <path d="M1.146 1.146a.5.5 0 1 1 .708.708L1.707 2H4.5a.5.5 0 0 1 0 1H1.707l.147.146a.5.5 0 0 1-.708.708L.646 2.854a.5.5 0 0 1 0-.708l.5-.5zM7.5 1a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-1h-3v1a.5.5 0 0 1-1 0v-2a.5.5 0 0 1 .5-.5h4z"/>
+    </svg>
   </a>
   <a href="https://www.facebook.com/ShadmanSShuvo" target="_blank" style="margin-right: 10px;">
-    <img alt="Shadman Shuvo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="filter: invert(100%);" />
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 16 16" fill="currentColor">
+      <path d="M12 1H9c-1.105 0-2 .895-2 2v3H5v3h2v7h3v-7h2.5l.5-3H10V3c0-.276.224-.5.5-.5H12V1z"/>
+    </svg>
   </a>
   <a href="https://codeforces.com/profile/ShadmanSShuvo" target="_blank">
-    <img alt="Shadman Shuvo | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" style="filter: invert(100%);" />
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 16 16" fill="currentColor">
+      <path d="M7.293 1.293a1 1 0 0 1 1.414 0l6 6a1 1 0 0 1 0 1.414l-6 6a1 1 0 0 1-1.414-1.414L11.586 8 7.293 3.707a1 1 0 0 1 0-1.414z"/>
+    </svg>
   </a>
 </div>
-
 <!-- 
 <br />
 
