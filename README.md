@@ -67,21 +67,14 @@ This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Enginee
 -->
 
 ## Connect with me:
+<div align="left">
+  
+[<img align="left" alt="Shadman Shuvo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shadman Shuvo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shadman Shuvo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Shadman Shuvo | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
-<div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px;">
-  <a href="[website]" target="_blank" style="margin-right: 10px;">
-    <img alt="Shadman Shuvo" width="22px" style="filter: invert(100%);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-  </a>
-  <a href="[linkedin]" target="_blank" style="margin-right: 10px;">
-    <img alt="Shadman Shuvo | LinkedIn" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="[facebook]" target="_blank" style="margin-right: 10px;">
-    <img alt="Shadman Shuvo | Facebook" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-  <a href="[codeforces]" target="_blank">
-    <img alt="Shadman Shuvo | Codeforces" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-  </a>
-</div>
+ </div>
 
 <!-- 
 <br />
