@@ -67,21 +67,20 @@ This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Enginee
 -->
 
 ## Connect with me:
-<div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px;">
 
-  <a href="[website]" target="_blank">
-    <img align="left" alt="Shadman Shuvo" width="22px" style="filter: invert(100%);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px;">
+  <a href="[website]" target="_blank" style="margin-right: 10px;">
+    <img alt="Shadman Shuvo" width="22px" style="filter: invert(100%);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
   </a>
-  <a href="[linkedin]" target="_blank">
-    <img align="left" alt="Shadman Shuvo | LinkedIn" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="[linkedin]" target="_blank" style="margin-right: 10px;">
+    <img alt="Shadman Shuvo | LinkedIn" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="[facebook]" target="_blank">
-    <img align="left" alt="Shadman Shuvo | Facebook" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <a href="[facebook]" target="_blank" style="margin-right: 10px;">
+    <img alt="Shadman Shuvo | Facebook" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
   <a href="[codeforces]" target="_blank">
-    <img align="left" alt="Shadman Shuvo | Codeforces" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+    <img alt="Shadman Shuvo | Codeforces" width="22px" style="filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
   </a>
-
 </div>
 
 <!-- 
