@@ -29,8 +29,8 @@ This is **Md. Shadman Shahriyar Shuvo**, a **Freshman Year (Level-1, Term-2) CS 
   <a href="https://github.com/ShadmanSShuvo" target="_blank" style="margin-right: 10px;" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-ShadmanSShuvo-black?style=flat-square&logo=github" alt="GitHub" height="22"/>
   </a>
-  <a href="https://www.linkedin.com/in/sdmnsvo/" target="_blank" style="margin-right: 10px;" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-sdmnsvo -blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="22"/>
+  <a href="https://www.linkedin.com/in/ShadmanSShuvo/" target="_blank" style="margin-right: 10px;" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-ShadmanSShuvo -blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="22"/>
   </a>
   <a href="https://www.facebook.com/ShadmanSShuvo" target="_blank" style="margin-right: 10px;" title="Facebook">
     <img src="https://img.shields.io/badge/Facebook-ShadmanSShuvo-blue?style=flat-square&logo=facebook" alt="Facebook" height="22"/>
