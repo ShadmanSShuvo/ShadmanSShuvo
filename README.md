@@ -3,27 +3,13 @@
 <!--
 **ShadmanSShuvo/ShadmanSShuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+COPIED FROM ASIF AZAD BHAI'S PROFILE
 -->
 
 
 ## Hi There! 👋
 ![](https://komarev.com/ghpvc/?username=ShadmanSShuvo&color=brightgreen)
-<!-- ![](https://komarev.com/ghpvc/?username=BRAINIAC2677&color=brightgreen) -->
-<!--
-**sadat-hossain-01/sadat-hossain-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
--->
 
 This is **Md. Shadman Shahriyar Shuvo**, a **Freshman Year (Level-1, Term-2) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
 
@@ -39,32 +25,7 @@ This is **Md. Shadman Shahriyar Shuvo**, a **Freshman Year (Level-1, Term-2) CS 
 
 </div>
 
-<!--
-![](https://komarev.com/ghpvc/?username=BRAINIAC2677&color=brightgreen)
-### Hi there 👋
 
-This is Asif Azad. Currently a CSE undergrad at Bangladesh University of Engineering and Technology. I am simple, curious and want to acquaint myself with everything that intrigue me.
-
-
-- :star: Pseudo Name: *BRAINIAC77*
-- :computer: I just love problem solving and competitive programming. :blue_heart:
-- :boom: I am also interested in web development.
-- 🔭 I’m currently working on _Who Knows_ :wink:
-- 🌱 I’m currently learning everything. :laughing:
-- 💬 Ask me about _Not anything_ :smile_cat:
-
-
-<div display=flex justify-content=center>
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=BRAINIAC2677&theme=dark" />  
-</div>
-
-<br>
-
-<div display=flex justify-content=center>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BRAINIAC2677&theme=onedark" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BRAINIAC2677&layout=compact&langs_count=8&card_width=320&theme=onedark" />
-</div>
--->
 ## Connect with me
 <div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px;">
   <a href="https://github.com/ShadmanSShuvo" target="_blank" style="margin-right: 10px;">
