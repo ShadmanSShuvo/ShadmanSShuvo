@@ -1,5 +1,3 @@
-
-
 <!--
 **ShadmanSShuvo/ShadmanSShuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,20 +47,7 @@ This is **Md. Shadman Shahriyar Shuvo**, a **Freshman Year (Level-1, Term-2) CS 
     </svg>
   </a>
 </div>
-<!-- 
-<br />
 
-## My Programming Performances
-
-| Competition Name|2020|2021| 2022 | 2023 |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :--: | :--: |
-| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC                                |  -  | Dhaka Regionals Preliminary <br /> Team : BUET_StormBreaker <br /> Rank: 34/1324 |  -   |  -   |
-| <img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Google_Code_Jam.gif" /> <br /> Google CodeJam | Qualification Round: <br/> Rank: 36148 | - |  - | - |
-| <img width="120px" src="https://raw.githubusercontent.com/sbrodehl/Hashcode2k20/master/HashCode2020.png"/> <br />Google Hashcode| - |         StormBreaker <br /> Rank:2658/10724 <br /> Country Rank: 23rd | -  |  -   |
-| <img width="120px" src="https://scontent.fdac23-1.fna.fbcdn.net/v/t1.6435-9/136412646_155717656350653_7942200701783552032_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=825194&_nc_ohc=C8nM2ddBo4EAX82tG4l&_nc_ht=scontent.fdac23-1.fna&oh=7902d6b124e85ec163b85a1710494b1f&oe=609D6455" /> <br />Google KickStart Best Rank | Rank: 529 <br/> in Round F  | -  |  -   |  -   |
-| <img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Facebook_Hacker_Cup.png" /> <br />Facebook HackerCup | Round 1 <br /> Rank:1,844/13,820 | - |  -   |  -   |
-| <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Max Rank|  1752 <br /> ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  |  -  |  -   |  -   |
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadmanSShuvo/ShadmanSShuvo/output/github-snake-dark.svg" />
