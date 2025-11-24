@@ -9,7 +9,7 @@ COPIED FROM ASIF AZAD BHAI'S PROFILE
 ![](https://komarev.com/ghpvc/?username=ShadmanSShuvo&color=brightgreen)
 
 
-This is **Md. Shadman Shahriyar Shuvo**, a **Freshman Year (Level-1, Term-2) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
+This is **Md. Shadman Shahriyar Shuvo**, a **Sophomore Year (Level-2, Term-1) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
 
 ## Profile Overview
 
