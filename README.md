@@ -32,12 +32,17 @@ This is **Md. Shadman Shahriyar Shuvo**, a **Freshman Year (Level-1, Term-2) CS 
   <a href="https://www.linkedin.com/in/ShadmanSShuvo/" target="_blank" style="margin-right: 10px;" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-ShadmanSShuvo -blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="22"/>
   </a>
+  <a href="https://www.youtube.com/@Shadman_Shuvo/" target="_blank" style="margin-right: 10px;" title="YouTube">
+    <img src="https://img.shields.io/badge/Youtube-Shadman_Shuvo -red?style=flat-square&logo=youtube" alt="YouTube" height="22"/>
+  </a>
+  <!--
   <a href="https://www.facebook.com/ShadmanSShuvo" target="_blank" style="margin-right: 10px;" title="Facebook">
     <img src="https://img.shields.io/badge/Facebook-ShadmanSShuvo-blue?style=flat-square&logo=facebook" alt="Facebook" height="22"/>
   </a>
   <a href="https://codeforces.com/profile/ShadmanSShuvo" target="_blank" title="Codeforces">
     <img src="https://img.shields.io/badge/Codeforces-ShadmanSShuvo-blue?style=flat-square" alt="Codeforces" height="22"/>
   </a>
+  -->
 </div>
 
 
