@@ -14,11 +14,11 @@ I’m passionate about **full-stack development**, **artificial intelligence**, 
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadmanSShuvo&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadmanSShuvo&theme=onedark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShadmanSShuvo&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShadmanSShuvo&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShadmanSShuvo&theme=onedark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShadmanSShuvo&theme=onedark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShadmanSShuvo&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShadmanSShuvo&theme=onedark&utcOffset=6)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShadmanSShuvo&theme=onedark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShadmanSShuvo&theme=onedark&utcOffset=6)
 
 </div>
 
