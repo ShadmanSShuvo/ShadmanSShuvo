@@ -26,7 +26,7 @@ I’m passionate about **full-stack development**, **artificial intelligence**, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShadmanSShuvo&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShadmanSShuvo&show_icons=true&theme=tokyonight&hide_border=true" /> -->
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadmanSShuvo&theme=tokyonight&hide_border=true" />
 
 </div>
