@@ -20,4 +20,4 @@ jobs:
           USERNAME: ShadmanSShuvo
           UTC_OFFSET: 6
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
