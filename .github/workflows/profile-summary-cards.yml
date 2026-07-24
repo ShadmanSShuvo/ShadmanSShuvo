@@ -14,8 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@1aa64e7dcb157b2131ce596f600e457d3bf8a786
         with:
           USERNAME: ShadmanSShuvo
           UTC_OFFSET: 6
