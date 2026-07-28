@@ -1,10 +1,6 @@
-<!--
-**ShadmanSShuvo/ShadmanSShuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 # Hi, I'm Shuvo 👋
 
-![](https://komarev.com/ghpvc/?username=ShadmanSShuvo&color=brightgreen)
+<img src="https://komarev.com/ghpvc/?username=ShadmanSShuvo&style=for-the-badge&color=blue" />
 
 I'm **Md. Shadman Shahriyar Shuvo**, a **Computer Science & Engineering undergraduate** at **Bangladesh University of Engineering and Technology (BUET)**.
 
@@ -24,23 +20,15 @@ I’m passionate about **full-stack development**, **artificial intelligence**, 
 
 </div>
 
-<!-- <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadmanSShuvo&theme=onedark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShadmanSShuvo&theme=onedark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShadmanSShuvo&theme=onedark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShadmanSShuvo&theme=onedark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShadmanSShuvo&theme=onedark&utcOffset=6)
-
-</div> -->
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShadmanSShuvo&show_icons=true&theme=tokyonight&hide_border=true" /> -->
-<!-- <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadmanSShuvo&theme=tokyonight&hide_border=true" /> -->
 <img height="170" src="https://streak-stats.demolab.com?user=ShadmanSShuvo&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadmanSShuvo&theme=tokyo-night" />
+
 </div>
 
 ## 🚀 Currently Exploring
