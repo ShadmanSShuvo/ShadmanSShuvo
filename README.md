@@ -20,7 +20,7 @@ I’m passionate about **full-stack development**, **artificial intelligence**, 
 
 </div>
 
-
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -28,14 +28,17 @@ I’m passionate about **full-stack development**, **artificial intelligence**, 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadmanSShuvo&theme=tokyo-night" />
 
 </div>
+-->
 
 ## 🚀 Currently Exploring
 
 - 🌐 Full-stack web development with Next.js
-- 🤖 Machine learning and deep learning
 - 🗄️ Database systems and backend architecture
+<!--
+- 🤖 Machine learning and deep learning
 - ⚙️ Data structures and algorithms
 - ☁️ Cloud and DevOps fundamentals
+-->
 
 ## 🛠️ Tech Stack
 
@@ -71,18 +74,20 @@ I’m passionate about **full-stack development**, **artificial intelligence**, 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+-->
 
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
+<!--
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+-->
 ### Documentation
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
